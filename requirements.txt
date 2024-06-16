@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+databases
+alembic
+psycopg2-binary
+asyncpg
+passlib
+python-jose
+pydantic
